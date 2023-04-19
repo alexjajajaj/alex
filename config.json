@@ -1,0 +1,7 @@
+{
+    "token":"MTA5MjUzMzcwMzc0NzU4MDAxNA.GFFRMX.uBoE16FQ2ucTAgXCNh_MvnEWDBXj_OwRe9jQpw",
+    "prefix": "!",
+    "color": "#f0dbdb",
+    "mongoDB": "mongodb+srv://alexander:20041402@cluster1.ljx2w1v.mongodb.net/?retryWrites=true&w=majority",
+    "clienteID": "1092533703747580014"
+}
